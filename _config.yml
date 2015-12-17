@@ -1,0 +1,28 @@
+name: Almine
+favicon: null
+layout_spectrum: 0.18181617348454893
+typography_spectrum: 0.20949139259755611
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.023372112773358822
+  lightness: 0.9377430838067085
+  saturation: 0.12637242791242898
+  rhythmicContrast: 0.20178830367513
+purpose: []
